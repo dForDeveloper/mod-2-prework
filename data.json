@@ -1,0 +1,35 @@
+{
+  "studentName" : "Jeo",
+  "projects" : [
+    {
+      "name" : "Dog Party",
+      "repo" : "https://github.com/dForDeveloper/dog-party",
+      "link" : "https://dfordeveloper.github.io/dog-party/"
+    },
+    {
+      "name" : "Static Comp 1",
+      "repo" : "https://github.com/dForDeveloper/jd-comp-challenge-1",
+      "link" : "https://dfordeveloper.github.io/jd-comp-challenge-1/"
+    },
+    {
+      "name" : "Static Comp 2",
+      "repo" : "https://github.com/dForDeveloper/jd-comp-challenge-2",
+      "link" : "https://dfordeveloper.github.io/jd-comp-challenge-2/"
+    },
+    {
+      "name" : "Number Guesser",
+      "repo" : "https://github.com/dForDeveloper/number-guesser",
+      "link" : "https://dfordeveloper.github.io/number-guesser/"
+    },
+    {
+      "name" : "IdeaBox",
+      "repo" : "https://github.com/dForDeveloper/ideabox-triples",
+      "link" : "https://dfordeveloper.github.io/ideabox-triples/"
+    },
+    {
+      "name" : "Foto Finder",
+      "repo" : "https://github.com/dForDeveloper/foto-finder",
+      "link" : "https://dfordeveloper.github.io/foto-finder/"
+    }
+  ]
+}
